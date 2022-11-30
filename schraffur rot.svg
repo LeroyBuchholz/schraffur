@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_514_2698" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+<rect width="24" height="24" fill="#C3C7CD"/>
+</mask>
+<g mask="url(#mask0_514_2698)">
+<rect x="21.2139" y="24.3892" width="4.42114" height="3.39045" transform="rotate(-45 21.2139 24.3892)" fill="#D70F37"/>
+<rect x="13.1411" y="24.4604" width="15.8702" height="3.39045" transform="rotate(-45 13.1411 24.4604)" fill="#D70F37"/>
+<rect x="5.38477" y="24.2173" width="26.8039" height="3.39045" transform="rotate(-45 5.38477 24.2173)" fill="#D70F37"/>
+<rect x="-1.74219" y="23.3438" width="35.133" height="3.39045" transform="rotate(-45 -1.74219 23.3438)" fill="#D70F37"/>
+<rect x="-2.68848" y="16.29" width="26.8728" height="3.39045" transform="rotate(-45 -2.68848 16.29)" fill="#D70F37"/>
+<rect x="-2.68896" y="8.29077" width="15.5588" height="3.39045" transform="rotate(-45 -2.68896 8.29077)" fill="#D70F37"/>
+<rect x="-2.58301" y="0.18457" width="3.98196" height="3.39045" transform="rotate(-45 -2.58301 0.18457)" fill="#D70F37"/>
+</g>
+</svg>
